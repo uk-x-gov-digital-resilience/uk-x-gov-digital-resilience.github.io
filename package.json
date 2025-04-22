@@ -7,7 +7,7 @@
     "@dvsa/cookie-manager": "^1.1.0",
     "@x-govuk/govuk-eleventy-plugin": "^6.7.2",
     "govuk-frontend": "^5.8.0",
-    "npm": "^10.5.2",
+    "npm": "^10.9.2",
     "sass": "^1.44.0"
   },
   "devDependencies": {
